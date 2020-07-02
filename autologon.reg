@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"AutoLogonCount"=-
+"AutoAdminLogon"="1"
+"ForceAutoLogon"="0"
+"DefaultUserName"="user"
+"DefaultDomainName"="domain"
+"DefaultPassword"="password"
